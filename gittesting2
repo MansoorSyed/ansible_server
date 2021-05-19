@@ -1,0 +1,8 @@
+#!/bin/bash
+echo " Welcome to the git hub"
+echo " I'm trying to execute the small program to check whether it is working or not"
+for (( a=1;a<=5;a++ ))
+do
+echo $a
+done
+echo "It is working fine"
